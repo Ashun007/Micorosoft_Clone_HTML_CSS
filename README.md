@@ -1,2 +1,5 @@
 # Micorosoft_Clone_HTML_CSS
- Only Html and Css Used in making of the clone 
+This is a microsoft clone website made by Only Using Html and Css.
+
+
+Date Made : 28-06-2023
